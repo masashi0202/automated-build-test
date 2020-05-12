@@ -1,2 +1,0 @@
-FROM dockersample/static-site
-ENV AUTHOR="Masashi Yoshino"
